@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="600px" height="700px" viewBox="0 0 600 700" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Combined Shape</title>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Logo-Final" transform="translate(-390.000000, 0.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M690,60 C624.638336,60 566.054041,91.8243165 523.423362,141.560109 C477.699573,194.904529 450,268.74831 450,350 C450,431.25169 477.699573,505.095471 523.423362,558.439891 C566.054041,608.175684 624.638336,640 690,640 L690,640 L930,640 L930,410.019949 L690,410.019949 L690,350.019949 L990,350.019949 L990,700 L690,700 L690,700 C524.314575,700 390,543.299662 390,350 C390,156.700338 524.314575,0 690,0 L990,5.68434189e-13 L990,60 L690,60 L690,60 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>

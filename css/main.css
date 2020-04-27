@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    min-height: 100%;
+    font-family: PingFangHK-UltraLight, "Helvetica", "Arial";
+    font-size: 100%;
+    color: #000000;
+    letter-spacing: 0.1em;
+    text-align: center;
+}
+
+ .container {
+    display: grid;
+    grid-template-columns: 60%;
+    grid-template-rows: 2fr min-content 1fr 1fr;
+    justify-content: center;
+    width: 100vw;
+    height: 100vh;
+ }
+
+ .logo {
+    grid-row-start: 2;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 0.1fr 1fr;
+    column-gap: 5%;
+ }
+
+ .r,
+ .i {
+    transition: 2s;
+    animation: ease-in-out;
+ }
+
+ .slogan {
+    grid-row-start: 3;
+    align-self: start;
+    padding-top: 1em;
+    font-size: 1.5em;
+ }
+
+ .message {
+    grid-row-start: 4;
+    align-self: center;
+    font-size: 2em;
+ }
+
+ img {
+     max-width: 100%;
+     height: auto;
+     justify-self: center;
+     align-self: center;
+ }
+
