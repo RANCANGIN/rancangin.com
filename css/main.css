@@ -41,13 +41,13 @@ body {
     grid-row-start: 3;
     align-self: start;
     padding-top: 1em;
-    font-size: 1.5em;
+    font-size: 1.15em;
  }
 
  .message {
     grid-row-start: 4;
     align-self: center;
-    font-size: 2em;
+    font-size: 1.5em;
  }
 
  img {
